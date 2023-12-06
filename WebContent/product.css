@@ -1,0 +1,28 @@
+body {
+    background-color: #D1E8E2;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 50px;
+}
+th {
+    width: 40%;
+    background-color: #3D405B;
+    color: #fff;
+}
+th, td {
+    border: 1px solid #000000;
+    padding: 10px;
+    text-align: left;
+}
+td {
+    width: 60%;
+}
+form {
+    max-width: 400px;
+    margin: 20px auto;
+}
+a {
+    text-decoration: none;
+}

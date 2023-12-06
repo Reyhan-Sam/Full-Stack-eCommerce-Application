@@ -1,0 +1,15 @@
+body {
+    background-color: #D1E8E2;
+}
+form {
+    max-width: 400px;
+    margin: 20px auto;
+}
+input, select, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    border: 1px solid #000000;
+    border-radius: 4px;
+}

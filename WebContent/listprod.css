@@ -1,0 +1,36 @@
+body {
+    background-color: #D1E8E2;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+th {
+    background-color: #3D405B;
+    color: #fff;
+}
+th, td {
+    border: 1px solid #000000;
+    padding: 10px;
+    text-align: left;
+}
+form {
+    max-width: 400px;
+    margin: 20px auto;
+}
+input, select, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    border: 1px solid #000000;
+    border-radius: 4px;
+    font-size: 14px;
+}
+select {
+    height: 30px;
+}
+a {
+    text-decoration: none;
+}
