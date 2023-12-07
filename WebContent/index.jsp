@@ -7,7 +7,7 @@
 <body>
 <%@ include file="header.jsp" %>
 
-<h1 align="center">Welcome to Futuristic Technology Store!</h1>
+<h1 align="center">Welcome to the Futuristic Tech Store!</h1>
 
 <h2 align="center"><a href="login.jsp">Login</a></h2>
 
