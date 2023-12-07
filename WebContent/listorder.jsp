@@ -10,6 +10,9 @@
 <body>
 
 <%@ include file="header.jsp" %>
+<%@ include file="jdbc.jsp"%>
+<%@ include file="authAdmin.jsp"%>
+
 
 <h1>Order List</h1>
 
