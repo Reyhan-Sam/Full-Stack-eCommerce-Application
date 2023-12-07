@@ -92,7 +92,7 @@ try
 			stmt2.executeUpdate(sql4);
 		*/
 		
-			String sql6 = "UPDATE product SET categoryId = 7 WHERE productId = 29";
+			String sql6 = "UPDATE customer SET userid = 'admin' WHERE customerId=1";
 			Statement stmt6 = con.createStatement();
 			stmt6.executeUpdate(sql6);
 		

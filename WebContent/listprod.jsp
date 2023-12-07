@@ -39,8 +39,8 @@
 	<tr>
 		<th></th>
 		<th>Product Name</th>
-		<th>Product Price</th>
 		<th>Category</th>
+		<th>Product Price</th>
 	</tr>
 
 <% // Get product name to search for

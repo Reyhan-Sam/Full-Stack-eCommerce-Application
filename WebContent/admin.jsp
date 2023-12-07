@@ -16,7 +16,7 @@
 <%@ page import="java.util.HashSet" %>
 <%@ page import="java.text.NumberFormat" %>
 
-<%@ include file="auth.jsp"%>
+<%@ include file="authAdmin.jsp"%>
 <%@ include file="jdbc.jsp" %>
 <%@ include file="header.jsp" %>
 
